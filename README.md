@@ -22,6 +22,12 @@ KNN Model :
 
 ![image](https://github.com/user-attachments/assets/18dde8f4-745e-45f5-b5dc-bd71f82b7294)
 
+Keterangan:
+
+0 : Pelanggan akan bertahan berlangganan
+
+1 : Pelanggan akan berhenti berlangganan
+
 
 
 
